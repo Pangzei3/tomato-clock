@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tomato-clock/static/css/main.18159ef6.css",
+    "main.js": "/tomato-clock/static/js/main.374d9775.js",
+    "static/js/787.552ebe14.chunk.js": "/tomato-clock/static/js/787.552ebe14.chunk.js",
+    "static/media/logo.svg": "/tomato-clock/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tomato-clock/index.html",
+    "main.18159ef6.css.map": "/tomato-clock/static/css/main.18159ef6.css.map",
+    "main.374d9775.js.map": "/tomato-clock/static/js/main.374d9775.js.map",
+    "787.552ebe14.chunk.js.map": "/tomato-clock/static/js/787.552ebe14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18159ef6.css",
+    "static/js/main.374d9775.js"
+  ]
+}
